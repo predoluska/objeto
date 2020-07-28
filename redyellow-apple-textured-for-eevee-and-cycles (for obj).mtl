@@ -1,0 +1,26 @@
+# Blender MTL File: 'redyellow-apple-textured-for-eevee-and-cycles (for obj).blend'
+# Material Count: 2
+
+newmtl Apfel_1_Schale
+Ns 385.814693
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.360735 0.360735 0.360735
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 Apfel_1_normal.jpg
+map_Kd Apfel_1_diffuse.jpg
+map_Ns Metal15_rgh.jpg
+
+newmtl Apfel_1_Stengel
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Apfel_1_diffuse.jpg
